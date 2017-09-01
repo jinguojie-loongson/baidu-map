@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Map Application Community
+Comment[zh_CN]=百度地图
+Exec=/opt/baidu-map/find-chrome.sh -app=https://map.baidu.com
+Name=Application Community
+Name[zh_CN]=百度地图
+Type=Application
+Icon=/opt/baidu-map/baidu-map.png
+
